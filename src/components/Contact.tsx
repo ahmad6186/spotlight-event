@@ -22,14 +22,13 @@ export default function Contact() {
           </p>
 
           <div className="contact__ctas">
-            <a href="mailto:hello@spotlightevents.com" className="btn btn-primary">
-              hello@spotlightevents.com
+            <a href="mailto:spotlighteventspk@gmail.com" className="btn btn-primary">
+            spotlighteventspk@gmail.com
             </a>
-            <a href="tel:+920000000000" className="btn btn-ghost">
-              +92 000 0000000
+            <a href="tel:+923043669900" className="btn btn-ghost">
+              +92 304 366 9900
             </a>
           </div>
-          <p className="contact__note">Placeholder contact details — update with your real email &amp; phone.</p>
         </motion.div>
       </div>
     </section>

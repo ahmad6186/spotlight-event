@@ -53,6 +53,9 @@ export default function Hero() {
       <div className="hero__overlay" />
 
       <div className="container hero__content">
+        <h1 className="visually-hidden">
+          Spotlight Events — Event Management, Lighting &amp; Production Design in Lahore, Pakistan
+        </h1>
         <img src={logo} className="hero__logo" ref={logoRef} alt="Spotlight Events" />
         <img src={tagline} className="hero__tagline" ref={taglineRef} alt="Precision · Creativity · Excellence" />
 

@@ -43,9 +43,3 @@
   flex-wrap: wrap;
   justify-content: center;
 }
-
-.contact__note {
-  margin-top: 20px;
-  color: var(--gray-500);
-  font-size: 12px;
-}

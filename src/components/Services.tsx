@@ -26,9 +26,9 @@ const SERVICES: Service[] = [
     icon: icon('M12 21s-7-4.35-9.5-8.5C.9 9.3 2.2 6 5.3 5.3 7.4 4.8 9.6 5.8 12 8.5c2.4-2.7 4.6-3.7 6.7-3.2 3.1.7 4.4 4 2.8 7.2C19 16.65 12 21 12 21z'),
   },
   {
-    title: 'Stage & Production Design',
-    desc: 'Striking stage, lighting, and production design that turns any venue into an immersive experience.',
-    icon: icon('M9 18V5l12-2v13M9 9l12-2M6 21a3 3 0 100-6 3 3 0 000 6zM18 19a3 3 0 100-6 3 3 0 000 6z'),
+    title: 'Stage, Lighting & Production Design',
+    desc: 'Striking stage and event lighting design paired with full production support that turns any venue into an immersive experience.',
+    icon: icon('M12 3a5 5 0 015 5c0 2.5-1.7 3.7-2.2 5.5a2 2 0 01-1.9 1.5h-1.8a2 2 0 01-1.9-1.5C8.7 11.7 7 10.5 7 8a5 5 0 015-5zM9.5 17h5M10.3 20h3.4'),
   },
   {
     title: 'Brand Activations & Exhibitions',
