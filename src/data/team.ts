@@ -1,7 +1,7 @@
 import khurram from '../assets/team/team_khurram.png'
-import basharat from '../assets/team/team_basharat.png'
+// import basharat from '../assets/team/team_basharat.png'
 import bilal from '../assets/team/team_bilal.png'
-import muhammad from '../assets/team/team_muhammad.png'
+// import muhammad from '../assets/team/team_muhammad.png'
 import arif from '../assets/team/team_arif.png'
 
 export interface TeamMember {
