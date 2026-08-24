@@ -2,7 +2,7 @@ import khurram from '../assets/team/team_khurram.png'
 // import basharat from '../assets/team/team_basharat.png'
 import bilal from '../assets/team/team_bilal.png'
 // import muhammad from '../assets/team/team_muhammad.png'
-import arif from '../assets/team/team_arif.png'
+// import arif from '../assets/team/team_arif.png'
 
 export interface TeamMember {
   name: string
@@ -41,11 +41,11 @@ export const team: TeamMember[] = [
   //   photo: muhammad,
   //   bio: 'A multidisciplinary artist and entertainment executive spanning puppetry performance, theatrical production, and large-scale event management — bridging the gap between creative vision and flawless technical execution.',
   // },
-  {
-    name: 'Arif Ali',
-    role: 'Production & Lighting Designer',
-    years: 25,
-    photo: arif,
-    bio: 'A technically driven production and lighting designer specializing in live concerts, corporate events, and immersive environments — balancing artistic vision with cutting-edge technology to deliver a lasting impression.',
-  },
+  // {
+  //   name: 'Arif Ali',
+  //   role: 'Production & Lighting Designer',
+  //   years: 25,
+  //   photo: arif,
+  //   bio: 'A technically driven production and lighting designer specializing in live concerts, corporate events, and immersive environments — balancing artistic vision with cutting-edge technology to deliver a lasting impression.',
+  // },
 ]
